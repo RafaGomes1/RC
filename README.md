@@ -8,4 +8,6 @@
 
 </div>
 
+---
+
 <h3 align="center"> 🎖️ Nota - 17 / 20 🎖️ </h3>
